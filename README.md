@@ -1,1 +1,1 @@
-# transcript_pipe
+# Transcriptome analysis pipeline
